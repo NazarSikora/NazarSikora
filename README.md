@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hey, I'm Nazar 👋
-### Python Developer · Telegram Bot Specialist · Web Scraping
+### Python Automation Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Building+Telegram+bots+with+Python;Web+scraping+%26+automation;Always+learning+new+things" alt="Typing SVG" />
 
