@@ -67,24 +67,12 @@ A bot that monitors OLX listings and instantly shows whether a price has dropped
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Nazar's GitHub stats](https://github-readme-stats.vercel.app/api?username=NazarSikora&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NazarSikora&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 📫 Contact Me
 
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nazariysikora)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/твій_профіль)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazariy-sikora-320b32314/?skipRedirect=true)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com/freelancers/твій_профіль)
 
 </div>
